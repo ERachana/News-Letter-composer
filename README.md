@@ -18,6 +18,7 @@ It is very easy to share your newsletter, whether you prefer to do so in digital
 So if you are looking for a fast and easy way to spread the word of your accomplishments, then ERachana’s News Letter Composer is the right tool for you.
 
 How does ERachana's Newsletter Composer work?
+
 The foundation of a great business is maintaining an updated list of your Business Relations that is customers, vendors, friends, employees etc. So, first, create a Subscriber Database containing their basic contact details, Relation to your business and Place they belong. Next, add your Firm’s Projects and Products (Basically all the milestones), as and when they occur. Update the related webpages and statistics in social media and record the subsequent digital activity periodically. Now, these details can be used to easily generate a Report and Compose your Company Newsletter and be used in email campaigns or periodical communication.
 
 You can introduce clients to your company with a welcome email, get repeat customers by sharing product recommendations, re-engage lapsed customers, convey festival and seasons wishes, and more. No matter what type of business you operate, it’s easy to set up the perfect automation for any situation.
